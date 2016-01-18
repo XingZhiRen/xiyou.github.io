@@ -10,6 +10,10 @@
   </head>
 
   <body>
+	<!-- 	±³¾°ÒôÀÖ -->
+	<audio autoplay="autopaly">
+		<source src="music/Apologize.mp3" type="audio/mp3">
+	</audio>
     <div class="nav">
       <div class="container">
         <ul class="pull-left">
