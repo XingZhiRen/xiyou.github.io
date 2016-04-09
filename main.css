@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:src="images/banner1.jpg";
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ojidbAmPN4uWak09A-EDei_TInmGlgEx914YYqYqM-dOeWscLA");
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
