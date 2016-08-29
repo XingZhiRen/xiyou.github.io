@@ -12,7 +12,7 @@
   <body>
 	<!-- 	±³¾°ÒôÀÖ -->
 	<audio autoplay="autopaly">
-		<source src="music/last night.mp3" type="audio/mp3">
+		<source src="music/LifetimeLove.mp3" type="audio/mp3">
 	</audio>
     <div class="nav">
       <div class="container">
@@ -30,7 +30,7 @@
 
     <div class="jumbotron">
       <div class="container">
-        <h1>Zhangye is the most beautiful place</h1>
+        <h1>Ò»ÉúËù°®</h1>
         <p>Where is a fascinating historical and cultural city</p>
         <a href="#">Learn More</a>
       </div>
@@ -42,25 +42,25 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail">
-                        <img height="850" width="550" src="images/2016Ren.JPG" >
+                        <img height="850" width="550" src="images/scene1.jpg" >
                     </div>
                      <div class="thumbnail">
-                        <img height="850" width="550" src="images/2016Ren.JPG" >
+                        <img height="850" width="550" src="images/scene2.jpg" >
                     </div>
                 </div>
                 <div class="col-md-4">
                    <div class="thumbnail">
-                         <img height="850" width="550" src="images/2016Ren.JPG" >
+                         <img height="850" width="550" src="images/scene3.jpg" >
                     </div>
                      <div class="thumbnail">
-                        <img height="850" width="550" src="images/2016Ren.JPG" >
+                        <img height="850" width="550" src="images/scene4.jpg" >
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                        <img height="850" width="550" src="images/2016Ren.JPG" >
+                        <img height="850" width="550" src="images/scene5.jpg" >
                     </div>
                     <div class="thumbnail">
-                        <img height="850" width="550" src="images/2016Ren.JPG" >
+                        <img height="850" width="550" src="images/scene6.jpg" >
                     </div>
                 </div>
             </div>
