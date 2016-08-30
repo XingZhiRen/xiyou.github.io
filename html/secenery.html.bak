@@ -4,6 +4,12 @@
 <title>Scenery</title>
 </head>
 	<body>
-		<h1>网页正在制作中，，，，，2016/1/18</h1>
+
+		<video width="320" height="240" controls>
+		<source src="math.mp4" type="video/mp4">
+		<source src="math.ogg" type="video/ogg">
+			您的浏览器不支持 HTML5 video 标签。
+		</video>
+
 	</body>
 </html>
